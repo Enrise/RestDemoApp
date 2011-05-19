@@ -1,0 +1,3 @@
+[submodule "library/Glitch"]
+	path = library/Glitch
+	url = git@github.com:Enrise/Glitch3_Lib.git
